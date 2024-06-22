@@ -18,10 +18,10 @@ const props = withDefaults(
 
 <style lang="scss">
 .svg-icon {
-    display: inline-block;
+    @apply inline-block;
 
     svg {
-        display: block;
+        @apply block;
     }
 }
 </style>

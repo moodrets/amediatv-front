@@ -9,7 +9,11 @@ export default {
         './error.vue',
     ],
     theme: {
-        extend: {},
+        extend: {
+            fontFamily: {
+                base: '"IBM Plex Sans",sans-serif',
+            },
+        },
     },
     plugins: [],
 }

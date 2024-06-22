@@ -1,0 +1,7 @@
+body {
+    @apply font-base text-[16px];
+}
+
+.centered {
+    @apply mx-auto max-w-full px-4 w-[var(--container-width)];
+}

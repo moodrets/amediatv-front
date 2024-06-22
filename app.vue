@@ -1,3 +1,3 @@
 <template>
-    <SvgIcon name="ic:round-play-circle"></SvgIcon>
+    <AppHeader></AppHeader>
 </template>
